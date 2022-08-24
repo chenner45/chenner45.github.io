@@ -6,6 +6,8 @@ languages:
     - item: SQL
     - item: JavaScript
     - item: HTML/CSS
+    - item: Obj. C
+    - item: PHP
 
 frameworks:
     - item: React
